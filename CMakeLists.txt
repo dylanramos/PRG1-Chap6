@@ -5,3 +5,4 @@ set(CMAKE_CXX_STANDARD 20)
 
 add_executable(Exos main.cpp)
 add_executable(6-8 6-8.cpp)
+add_executable(6-X2 6-X2.cpp)
